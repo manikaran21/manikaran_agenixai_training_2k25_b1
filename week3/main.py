@@ -1,0 +1,7 @@
+from CustomerChurn.predictive_model import main as customer_churn_main
+from StudentPerformance.predictive_model import main as student_performance_main
+from EnergyConsumption.predictive_model import main as energy_consumption_main
+
+customer_churn_main()
+student_performance_main()
+energy_consumption_main()
